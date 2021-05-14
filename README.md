@@ -12,3 +12,7 @@ Codebase for the Zeroshot Classification project as a part of CS726 curriculum
 4. Go to UI directory and update the variable `site_url` in `way01/views.py` file with the link generated from step 3
 5. Execute `python3 manage.py runserver` command from UI directory
 6. You are good to go. Visit `localhost:8000` in your browser and you should be able to see the ui.
+
+## User Interface
+
+![This is how your UI should look](/Results/ui-demo.png)
